@@ -1,2 +1,2 @@
 # OOP-java-unoExcercise
-This is a project done in University which showcases my strength in OOP
+This is a project done at University which showcases my strength in OOP
